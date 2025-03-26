@@ -41,4 +41,3 @@ POST `/buscar`
 }
 ```
 
-# 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
