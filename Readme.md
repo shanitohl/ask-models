@@ -40,4 +40,3 @@ POST `/buscar`
   "contexto": "Texto relevante extraído de los documentos..."
 }
 ```
-
