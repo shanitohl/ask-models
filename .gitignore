@@ -1,0 +1,105 @@
+# Python
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+_env/
+ENV/
+.venv/
+__pycache__/
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.whl
+pip-log.txt
+pip-delete-this.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtualenv
+.venv
+venv
+
+# Byte-compiled / optimized / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# mypy
+.mypy_cache/
+mypy-report/
+
+# Flake8
+.flake8
+
+# Ruff
+.ruff_cache/
+
+# Black
+.black_cache/
+
+# Type checkers
+.pytype/
+.pylintrc
+pylint-*.txt
+.pdm-venv/
+.dmypy.json
+dmypy-*.json
+
+# Unit test / coverage reports
+htmlcov/
+.pytest_cache/
+.coverage
+coverage.py
+.cache
+
+# Translations
+*.pot
+*.po
+*.mo
+
+# Django stuff:
+*.log
+local_settings.py*
+db.sqlite3
+db.sqlite3-journal
+*.orig
+*.swp
+.DS_Store
+
+# Celery stuff
+celerybeat-schedule
+celerymon.pid
+
+# Sensitive or secret files (adjust as needed)
+.env
+.secrets
+config.ini
+credentials.json
+*.key
+*.pem
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+vector_db
